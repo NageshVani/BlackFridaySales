@@ -1,6 +1,5 @@
 # BlackFridaySales
-Analythical Vidya Hackathon
-Hackathon competition which renews every year with new set of competitors providing their best results.
+Analythical Vidya Hackathon competition which renews every year with new datasets and competitors providing their best results.
 Link : https://datahack.analyticsvidhya.com/contest/black-friday/
 
 ## Problem Statement :

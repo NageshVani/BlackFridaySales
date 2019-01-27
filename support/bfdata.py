@@ -28,12 +28,12 @@ def getcsv_data(testfile='data/test.csv', trainfile='data/train.csv'):
     print ('Combined dataset dataframe :-', dataset.shape)
     return dataset
 
-def getcsv_train(file1='data/BigMartTrain.csv'):
+def getcsv_train(file1='data/train.csv'):
     #Read CSV data files:
     train = pd.read_csv(file1)
     return train
 
-def getcsv_test(file2='data/BigMartTest.csv'):
+def getcsv_test(file2='data/test.csv'):
     #Read CSV data files:
     test = pd.read_csv(file2)
     return test

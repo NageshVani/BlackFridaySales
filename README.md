@@ -11,7 +11,7 @@ Now, they want to build a model to predict the purchase amount of customer again
 There are 2 csv files train.csv (550068, 13) 25 MB, test.csv (233599, 12) 9.4 MB splitted into 70:30 ratio 
 
 ## Installation:
-Use the download button indicated in the right corner of this repository, which will download the following files and directories;
+Use the __download button indicated in the right corner of this repository__, which will download the following files and directories;
 - BlackForestSales.ipynb file (Jupyter Notebook file)
 - /data folder containing test.csv and train.csv
 - /support folder containing python script files

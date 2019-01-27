@@ -16,3 +16,16 @@ Use the download button indicated in the right corner of this repository, which 
 - /data folder containing test.csv and train.csv
 - /support folder containing python script files
 - other repository related files - Readme.md, License file and other configuration files
+
+```
+Black Friday Sales repository
+|__ data
+|     |__ train.csv
+|     |__ test.csv
+|__ support
+|     |__ *.py files
+|__ Black Friday - Analytics Vidya Hackathon file
+|__ License
+|__ Readme.md
+|__ git configuration files (can be ignored)
+```
